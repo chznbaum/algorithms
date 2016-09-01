@@ -80,7 +80,7 @@ describe Book do
 end
 ```
 
-## Solutions
+## Solution
 
 ```
 class Book
