@@ -8,6 +8,23 @@ solved by Chazona Baum
 ## Index
 
 ### Free Code Camp
+* [Reverse a String](./free_code_camp/reverse_a_string.md)
+* [Factorialize a Number](./free_code_camp/factorialize_a_number.md)
+* [Check for Palindromes](./free_code_camp/check_for_palindromes.md)
+* [Find the Longest Word in a String](./free_code_camp/find_the_longest_word_in_a_string.md)
+* [Title Case a Sentence](./free_code_camp/title_case_a_sentence.md)
+* [Return Largest Numbers in Arrays](./free_code_camp/return_largest_numbers_in_arrays.md)
+* [Confirm the Ending](./free_code_camp/confirm_the_ending.md)
+* Repeat a string repeat a string
+* Truncate a string
+* Chunky Monkey
+* Slasher Flick
+* Mutations
+* Falsy Bouncer
+* Seek and Destroy
+* Where do I belong
+* Caesars Cipher
+* Sum All Numbers in a Range
 
 ### The Odin Project
 * [Hello | Ruby](./the_odin_project/hello.md)
