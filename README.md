@@ -23,8 +23,8 @@ solved by Chazona Baum
 * [Pagespeed Insights | JavaScript](./udacity/pagespeed_insights.md)
 
 ### Hackerrank
-* [Hello World](./hackerrank/hello_world.md)
-* [Simple Array Sum](./hackerrank/hello_world.md)
-* [Compare the Triplets](./hackerrank/compare_the_triplets.md)
-* [A Very Big Sum](./hackerrank/a_very_big_sum.md)
-* [Data Types](./hackerrank/data_types.md)
+* [Hello World | JavaScript](./hackerrank/hello_world.md)
+* [Simple Array Sum | JavaScript](./hackerrank/hello_world.md)
+* [Compare the Triplets | JavaScript](./hackerrank/compare_the_triplets.md)
+* [A Very Big Sum | JavaScript](./hackerrank/a_very_big_sum.md)
+* [Data Types | JavaScript](./hackerrank/data_types.md)
