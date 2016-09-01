@@ -12,7 +12,6 @@ solved by Chazona Baum
 ### The Odin Project
 
 ### Udacity
-* 
-* Relationships
+* [Relationships](./udacity/relationships.md)
 * Astronaut Arrays
 * Pagespeed Insights
