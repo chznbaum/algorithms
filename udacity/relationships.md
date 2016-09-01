@@ -1,8 +1,6 @@
 # Relationships
-----
 
 ## Problem
-----
 
 We learned about relational operators and how they can classify the relationship between two values. Your job is to write the function getRelationship(x,y) function, which should return a string representing whether x is >, < or = y. For example:
 
@@ -34,7 +32,6 @@ Notice in the second example, because the y value was missing, the output said t
 Adapted from [UVa problem 11172](http://uva.onlinejudge.org/external/111/11172.html).
 
 ## Solution
-----
 
 ```
 function getRelationship(x, y) {
