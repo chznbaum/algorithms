@@ -8,23 +8,23 @@ solved by Chazona Baum
 ## Index
 
 ### Free Code Camp
-* [Reverse a String](./free_code_camp/reverse_a_string.md)
-* [Factorialize a Number](./free_code_camp/factorialize_a_number.md)
-* [Check for Palindromes](./free_code_camp/check_for_palindromes.md)
-* [Find the Longest Word in a String](./free_code_camp/find_the_longest_word_in_a_string.md)
-* [Title Case a Sentence](./free_code_camp/title_case_a_sentence.md)
-* [Return Largest Numbers in Arrays](./free_code_camp/return_largest_numbers_in_arrays.md)
-* [Confirm the Ending](./free_code_camp/confirm_the_ending.md)
-* Repeat a string repeat a string
-* Truncate a string
-* Chunky Monkey
-* Slasher Flick
-* Mutations
-* Falsy Bouncer
-* Seek and Destroy
-* Where do I belong
-* Caesars Cipher
-* Sum All Numbers in a Range
+* [Reverse a String | JavaScript](./free_code_camp/reverse_a_string.md)
+* [Factorialize a Number | JavaScript](./free_code_camp/factorialize_a_number.md)
+* [Check for Palindromes | JavaScript](./free_code_camp/check_for_palindromes.md)
+* [Find the Longest Word in a String | JavaScript](./free_code_camp/find_the_longest_word_in_a_string.md)
+* [Title Case a Sentence | JavaScript](./free_code_camp/title_case_a_sentence.md)
+* [Return Largest Numbers in Arrays | JavaScript](./free_code_camp/return_largest_numbers_in_arrays.md)
+* [Confirm the Ending | JavaScript](./free_code_camp/confirm_the_ending.md)
+* [Repeat a string repeat a string | JavaScript](./free_code_camp/repeat_a_string_repeat_a_string.md)
+* [Truncate a string | JavaScript](./free_code_camp/truncate_a_string.md)
+* [Chunky Monkey | JavaScript](./free_code_camp/chunky_monkey.md)
+* [Slasher Flick | JavaScript](./free_code_camp/slasher_flick.md)
+* [Mutations | JavaScript](./free_code_camp/mutations.md)
+* [Falsy Bouncer | JavaScript](./free_code_camp/falsy_bouncer.md)
+* [Seek and Destroy | JavaScript](./free_code_camp/seek_and_destroy.md)
+* [Where do I belong | JavaScript](./free_code_camp/where_do_i_belong.md)
+* [Caesars Cipher | JavaScript](./free_code_camp/caesars_cipher.md)
+* [Sum All Numbers in a Range | JavaScript](./free_code_camp/sum_all_numbers_in_a_range.md)
 
 ### The Odin Project
 * [Hello | Ruby](./the_odin_project/hello.md)
