@@ -25,6 +25,7 @@ solved by Chazona Baum
 * [Seek and Destroy | JavaScript](./free_code_camp/seek_and_destroy.md)
 * [Where do I belong | JavaScript](./free_code_camp/where_do_i_belong.md)
 * [Caesars Cipher | JavaScript](./free_code_camp/caesars_cipher.md)
+
 #### Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range | JavaScript](./free_code_camp/sum_all_numbers_in_a_range.md)
 * [Diff Two Arrays | JavaScript](./free_code_camp/diff_two_arrays.md)
@@ -47,6 +48,7 @@ solved by Chazona Baum
 * [Binary Agents | JavaScript](./free_code_camp/binary_agents.md)
 * [Everything Be True | JavaScript](./free_code_camp/everything_be_true.md)
 * [Arguments Optional | JavaScript](./free_code_camp/arguments_optional.md)
+
 #### Advanced Algorithm Scripting
 * [Validate US Telephone Numbers | JavaScript](./free_code_camp/validate_us_telephone_numbers.md)
 * [Symmetric Difference | JavaScript](./free_code_camp/symmetric_difference.md)
