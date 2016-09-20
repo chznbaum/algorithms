@@ -8,6 +8,7 @@ solved by Chazona Baum
 ## Index
 
 ### Free Code Camp
+#### Basic Algorithm Scripting
 * [Reverse a String | JavaScript](./free_code_camp/reverse_a_string.md)
 * [Factorialize a Number | JavaScript](./free_code_camp/factorialize_a_number.md)
 * [Check for Palindromes | JavaScript](./free_code_camp/check_for_palindromes.md)
@@ -24,7 +25,32 @@ solved by Chazona Baum
 * [Seek and Destroy | JavaScript](./free_code_camp/seek_and_destroy.md)
 * [Where do I belong | JavaScript](./free_code_camp/where_do_i_belong.md)
 * [Caesars Cipher | JavaScript](./free_code_camp/caesars_cipher.md)
+#### Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range | JavaScript](./free_code_camp/sum_all_numbers_in_a_range.md)
+* [Diff Two Arrays | JavaScript](./free_code_camp/diff_two_arrays.md)
+* [Roman Numeral Converter | JavaScript](./free_code_camp/roman_numeral_converter.md)
+* [Wherefore art thou | JavaScript](./free_code_camp/wherefore_art_thou.md)
+* [Search and Replace | JavaScript](./free_code_camp/search_and_replace.md)
+* [Pig Latin | JavaScript](./free_code_camp/pig_latin.md)
+* [DNA Pairing | JavaScript](./free_code_camp/dna_pairing.md)
+* [Missing letters | JavaScript](./free_code_camp/missing_letters.md)
+* [Boo who | JavaScript](./free_code_camp/boo_who.md)
+* [Sorted Union | JavaScript](./free_code_camp/sorted_union.md)
+* [Convert HTML Entities | JavaScript](./free_code_camp/convert_html_entities.md)
+* [Spinal Tap Case |JavaScript](./free_code_camp/spinal_tap_case.md)
+* [Sum All Odd Fibonacci Numbers | JavaScript](./free_code_camp/sum_all_odd_fibonacci_numbers.md)
+* [Sum All Primes | JavaScript](./free_code_camp/sum_all_primes.md)
+* [Smallest Common Multiple | JavaScript](./free_code_camp/smallest_common_multiple.md)
+* [Finders Keepers | JavaScript](./free_code_camp/finders_keepers.md)
+* [Drop it | JavaScript](./free_code_camp/drop_it.md)
+* [Steamroller | JavaScript](./free_code_camp/steamroller.md)
+* [Binary Agents | JavaScript](./free_code_camp/binary_agents.md)
+* [Everything Be True | JavaScript](./free_code_camp/everything_be_true.md)
+* [Arguments Optional | JavaScript](./free_code_camp/arguments_optional.md)
+#### Advanced Algorithm Scripting
+* [Validate US Telephone Numbers | JavaScript](./free_code_camp/validate_us_telephone_numbers.md)
+* [Symmetric Difference | JavaScript](./free_code_camp/symmetric_difference.md)
+* [Exact Change | JavaScript](./free_code_camp/exact_change.md)
 
 ### The Odin Project
 * [Hello | Ruby](./the_odin_project/hello.md)
